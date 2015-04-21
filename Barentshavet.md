@@ -54,6 +54,7 @@ Barentshavet
     påvist mellom 1,5-2,5 millioner Sm3 olje i brønnen.
 
 | Brønn               | Olje/kondensat | Gass   | Totalt |
+| ------------------- | -------------: | -----: | -----: |
 | 7220/11-1 (Alta)    | 14-50          | 5-17   |        |
 | 7220/4-1 (Kramsnø)  | 0              | 2-4    |        |
 | 7220/7-3 (Drivis)   | ?              | ?      | 7-10   | 
