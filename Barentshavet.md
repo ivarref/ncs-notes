@@ -53,4 +53,16 @@ Barentshavet
     for Snøhvitområdet. Funnet er gjort i Kobbeformasjonen i trias. Det er
     påvist mellom 1,5-2,5 millioner Sm3 olje i brønnen.
 
+| Brønn               | Olje/kondensat | Gass   | Totalt |
+| 7220/11-1 (Alta)    | 14-50          | 5-17   |        |
+| 7220/4-1 (Kramsnø)  | 0              | 2-4    |        |
+| 7220/7-3 (Drivis)   | ?              | ?      | 7-10   | 
+| 7220/2-1 (Isfjell)  | 0              | 1-2    |        | 
+| 7319/12-1           | 0              | 5-20   |        | 
+| 7224/7-2 (Hanssen)  | 3-8            | 0      |        | 
+| 7324/9-1 (Mercury)  | 0              | 1-2    |        | 
+| 7325/1-1 (Antlantis)| 0              | 0.7-2  |        | 
+| 7222/11-2           | 1.5-2.5        | 0      |        |
+
+
 
