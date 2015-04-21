@@ -9,11 +9,14 @@ Oljedirektoratet seier:
 
 Og
     
-    44 percent of overall resources are sold & delivered. 
-    https://twitter.com/oeddep/status/580702403009376257
+    Totale ressurser er på 14200 millionar Sm3 o.e.  Uoppdaga ressursar er 21%
+    av dette, eller 2983 millionar Sm3 o.e.  Då skal altså Barentshavet
+    innehalde 1282 millionar Sm3 o.e, eller nok til å halde norsk
+    petroleumsproduksjon gåande i 5.8 år til (i 2014-tempo).
+    Dette tilsvarer 8000 millionar fat oljeekvivalenter.
 
-Til og med 2014 er det solgt 6381 millionar Sm3 oljeekvivalentar.
-
+https://www.regjeringen.no/globalassets/upload/oed/pdf_filer_2/faktaheftet/fakta2014og/facts_2014_nett_.pdf
+(Side 22)
 
     Leteaktiviteten har vært høy i Barentshavet. Det er gjort ni nye funn, og
     ett av dem er det største på norsk sokkel i 2014. Lundin har i brønn
