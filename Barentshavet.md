@@ -1,6 +1,20 @@
 Barentshavet
 ============
 
+Oljedirektoratet seier:
+
+    OD anslår at 43 prosent av de uoppdagede ressursene på sokkelen ligger i
+    Barentshavet, sier oljedirektør Bente Nyland. #BSCE2015
+    https://twitter.com/oljedir/status/590441254116323328
+
+Og
+    
+    44 percent of overall resources are sold & delivered. 
+    https://twitter.com/oeddep/status/580702403009376257
+
+Til og med 2014 er det solgt 6381 millionar Sm3 oljeekvivalentar.
+
+
     Leteaktiviteten har vært høy i Barentshavet. Det er gjort ni nye funn, og
     ett av dem er det største på norsk sokkel i 2014. Lundin har i brønn
     7220/11-1 (Alta), like nord for Snøhvitområdet, påvist olje i kalkstein i
