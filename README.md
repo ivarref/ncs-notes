@@ -11,13 +11,8 @@ Dette gir altså:
 | Utfall        | Olje/kondensat | Gass  | Totalt  |
 | ------------- | --------------:| -----:| ------: |
 | Beste         |            110 |    75 |     185 |
-| Verste        | centered       |   $12 |         |
-| Middels       | are neat       |    $1 |         |
-
-
-* I beste fall: 185 millioner oljeekvivalenter (Sm3).
-* I verste fall: 65 millioner oljeekvivalenter (Sm3).
-* Og middels: 125 millioner oljeekvivalenter (Sm3).
+| Middels       |             75 |    48 |     123 |
+| Verste        |             40 |    25 |      65 |
 
 
 Kilder
