@@ -13,7 +13,7 @@ Og
     av dette, eller 2983 millionar Sm3 o.e.  Då skal altså Barentshavet
     innehalde 1282 millionar Sm3 o.e, eller nok til å halde norsk
     petroleumsproduksjon gåande i 5.8 år til (i 2014-tempo).
-    Dette tilsvarer 8000 millionar fat oljeekvivalenter.
+    Dette tilsvarer omlag 8000 millionar fat oljeekvivalenter.
 
 https://www.regjeringen.no/globalassets/upload/oed/pdf_filer_2/faktaheftet/fakta2014og/facts_2014_nett_.pdf
 (Side 22)
